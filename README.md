@@ -38,8 +38,8 @@ endworlds:
   - world_the_end
   - end_city_world
 
-# Intervall in Ticks (wird alle 'interval-ticks' Ticks wiederholt)
-interval-ticks: 6000
+# Intervall in Ticks (100 Ticks = 5 Sekunden)
+interval-ticks: 100
 
 # Aktiviert das Konsolen-Logging
 console-logging: true
