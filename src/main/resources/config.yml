@@ -4,8 +4,8 @@
 endworlds:
   - world_the_end  # Beispiel: Weltname des Endes
 
-# Intervall in Ticks (6000 Ticks = 5 Minuten)
-interval-ticks: 20
+# Intervall in Ticks (100 Ticks = 5 Sekunden)
+interval-ticks: 100
 
 # Anpassbare Nachrichten
 messages:
