@@ -1,0 +1,24 @@
+name: AlphaElytraRemover
+version: 2.5
+author: AlphaBlock4k
+description: "Dieses Plugin entfernt Elytras aus Itemframes in den Endwelten."
+website: https://guns.lol/AlphaBlock4k
+main: com.alphablock.AlphaElytraRemover
+api-version: 1.21.4
+commands:
+  aetoggle:
+    description: Schaltet das Logging (chat, console oder frame) ein oder aus.
+    usage: /aetoggle <chat|console|frame> <on|off>
+  aereload:
+    description: Lädt die Konfiguration des AlphaElytraRemover-Plugins neu.
+    usage: /aereload
+permissions:
+  ae.toggle.chat:
+    description: "Erlaubt das Umschalten des Chat-Loggings."
+    default: op
+  ae.toggle.console:
+    description: "Erlaubt das Umschalten des Konsolen-Loggings."
+    default: op
+  ae.toggle.frame:
+    description: "Erlaubt das Umschalten des Prevent Elytra in ItemFrames Log."
+    default: op

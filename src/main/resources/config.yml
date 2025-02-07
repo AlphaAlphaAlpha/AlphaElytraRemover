@@ -1,0 +1,19 @@
+# config.yml
+
+# Welten, in denen der Elytra-Remover aktiv ist
+endworlds:
+  - world_the_end  # Beispiel: Weltname des Endes
+
+# Intervall in Ticks (6000 Ticks = 5 Minuten)
+interval-ticks: 20
+
+# Anpassbare Nachrichten
+messages:
+  prevent-place: "&cDu kannst keine Elytra in Itemframes in dieser Welt ablegen!"
+  remove-elytra: "&cElytra wurde aus einem Itemframe entfernt!"
+
+# Konsolen-Logging ein/aus (true = aktiv, false = deaktiviert)
+console-logging: true
+
+# Chat-Logging ein/aus (true = aktiv, false = deaktiviert)
+chat-logging: true
