@@ -53,14 +53,18 @@ messages:
   remove-elytra: "Elytras wurden aus ItemFrames entfernt!"
 ````
 
-Befehle
+## Befehle
 /aetoggle console – Schaltet das Konsolen-Logging ein/aus.
 /aetoggle chat – Schaltet das Chat-Logging ein/aus.
 /aetoggle frame off – Deaktiviert das Prevent-Log, wenn Elytras in ItemFrames abgelegt werden.
 /aereload – Lädt die Konfiguration neu, ohne den Server neu zu starten.
-Permissions
+
+
+## Permissions
 ````ae.toggle.console```` – Berechtigung, um das Konsolen-Logging zu aktivieren/deaktivieren.
 ````ae.toggle.chat```` – Berechtigung, um das Chat-Logging zu aktivieren/deaktivieren.
 ````ae.toggle.frame```` – Berechtigung, um das Prevent-Log für das Ablegen von Elytras in ItemFrames zu aktivieren/deaktivieren.
-Support
+
+
+## Support
 Für Unterstützung, Fragen oder Feature-Anfragen kannst du die Issues-Seite des GitHub-Repositories besuchen.
