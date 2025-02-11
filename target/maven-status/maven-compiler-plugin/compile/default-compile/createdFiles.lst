@@ -1,0 +1,4 @@
+com\alphablock\commands\ReloadCommand.class
+com\alphablock\PluginConifg.class
+com\alphablock\AlphaElytraRemover.class
+com\alphablock\events\ElytraRemove.class
